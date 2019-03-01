@@ -1,0 +1,16 @@
+.text-red {
+  color: red;
+}
+
+
+.text-lg {
+  font-size: 200%;
+}
+
+.btn {
+  background-color: green;
+}
+
+.btn:hover {
+  background-color: blue;
+}
